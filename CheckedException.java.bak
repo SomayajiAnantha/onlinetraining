@@ -14,7 +14,6 @@ public class CheckedException {
 		
 		System.out.println("End of Program");
 		//pw.close();
-		System.out.println("End of Program");
 	}
 
 }
