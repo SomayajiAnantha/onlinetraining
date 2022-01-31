@@ -21,8 +21,8 @@ public class AbstractExample {
 	Circle c1 = new Circle();
 	Square s1 = new Square();
 	
-	c1.perimeter(10);
-	s1.perimeter(12);
+	c1.perimeter(12);
+	s1.perimeter(14);
 	}
 	
 }
