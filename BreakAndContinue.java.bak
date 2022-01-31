@@ -9,7 +9,7 @@ public class BreakAndContinue {
 		}
 		System.out.print(i+" ");
 		
-		if (i%27==0) {
+		if (i%23==0) {
 			break;
 		}
 	 }
